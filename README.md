@@ -10,10 +10,10 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Plugin to use YaJarvis, based on Rasa NLU backend
+Plugin to use [YaJarvis](https://github.com/Oliv4945/YaJarvis), based on [Rasa NLU](https://github.com/RasaHQ/rasa_nlu) backend
 
 ## Usage
-See YaJarvis help
+See [YaJarvis](https://github.com/Oliv4945/YaJarvis) help
 ```
 
 ## Author
