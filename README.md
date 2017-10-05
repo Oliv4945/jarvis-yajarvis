@@ -14,7 +14,6 @@ Plugin to use [YaJarvis](https://github.com/Oliv4945/YaJarvis), based on [Rasa N
 
 ## Usage
 See [YaJarvis](https://github.com/Oliv4945/YaJarvis) help
-```
 
 ## Author
 [Oliv'](http://iopush.net)
