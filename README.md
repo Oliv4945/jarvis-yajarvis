@@ -10,13 +10,11 @@ For multi-language plugin:
 - optionally write the Description / Usage sections in several languages
 -->
 ## Description
-Description of your Plugin
+Plugin to use YaJarvis, based on Rasa NLU backend
 
 ## Usage
-```
-You: example of how to trigger the command
-Jarvis: output from Jarvis
+See YaJarvis help
 ```
 
 ## Author
-[your name](http://your.website)
+[Oliv'](http://iopush.net)
